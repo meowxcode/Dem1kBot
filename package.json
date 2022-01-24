@@ -1,0 +1,23 @@
+{
+  "name": "Dem1kBot",
+  "version": "1.0.0",
+  "description": "A simple demotivator bot for Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meowxcode/Dem1kBot.git"
+  },
+  "author": "meowxcode <meowxcode@mailfence.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meowxcode/Dem1kBot/issues"
+  },
+  "homepage": "https://github.com/meowxcode/Dem1kBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "canvas": "^2.6.1"
+  }
+}
